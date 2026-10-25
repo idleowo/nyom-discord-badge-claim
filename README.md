@@ -3,6 +3,7 @@
 inflates your discord profile badges - add hours played and mark games as played.
 
 THIS IS IDLE'S EDITION OF DISCORD BADGE SPOOFER, THANKS TO REVERE GROUP FOR ORIGINAL REPOSITORY
+
 JOIN OUR DISCORD: https://discord.nyom.lol/ or https://discord.gg/nyom
 
 
