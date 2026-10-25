@@ -1,0 +1,12 @@
+# local state
+science_state.json
+.browser-profile/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# game cache
+data/
