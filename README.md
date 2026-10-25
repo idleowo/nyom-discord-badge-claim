@@ -19,7 +19,7 @@ no dependencies - pure python stdlib (needs python 3.10+).
 
 1. run it:
    ```
-   python spoofer.py
+   python main.py
    ```
 
 2. first run asks for your discord account token. paste it and it gets saved to `science_state.json` (reused after that). the analytics token is fetched automatically from `GET /users/@me?with_analytics_token=true`.
